@@ -1,2 +1,2 @@
-MY APP
+hngInternship5
 This is a calculator application written with the JavaScript language.
